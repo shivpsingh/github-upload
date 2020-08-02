@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "We are briging up something soon!!!"
+title: "We are bringing up something soon!!!"
 ---
 
 Use the left arrow to go back!
