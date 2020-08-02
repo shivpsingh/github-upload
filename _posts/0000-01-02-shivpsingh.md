@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "We are briging up something soon!!!"
 ---
-Adding this line for learning git
+
 Use the left arrow to go back!
